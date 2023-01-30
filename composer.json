@@ -1,6 +1,6 @@
 {
-    "name": "asplinsol/trustshare-api-php",
-    "description": "PHP library for access to TrustShare API",
+    "name": "duyngha/trusha-sdk",
+    "description": "Trustshare SDK for PHP",
     "keywords": [
         "swagger",
         "php",
@@ -8,7 +8,7 @@
         "api",
         "TrustShare"
     ],
-    "homepage": "https://github.com/asplinsol",
+    "homepage": "https://github.com/duyngha",
     "license": "LGPL-2.1",
     "stability": "dev",
     "authors": [
